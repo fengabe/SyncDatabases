@@ -14,7 +14,7 @@ DROP VIEW ' + tcvd.TableSchema + '.' + tcvd.ViewName + '
               , @createsql = 'CREATE VIEW ' + tcvd.TableSchema + '.'
                 + tcvd.ViewName + '
 AS
-    SELECT  t.Column1
+    SELECT  t.Column1 AS SourceColumn
     '
                 + (SELECT   STUFF((SELECT   CHAR(9) + ', ' + tcvd.TableAlias + '.'
                                             + COLUMN_NAME + CHAR(10)
