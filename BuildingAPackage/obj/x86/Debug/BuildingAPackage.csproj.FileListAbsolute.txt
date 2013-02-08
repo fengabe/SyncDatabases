@@ -1,0 +1,6 @@
+c:\users\staropov\documents\visual studio 2010\Projects\BuildingAPackage\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\staropov\documents\visual studio 2010\Projects\BuildingAPackage\bin\Debug\BuildingAPackage.exe.config
+c:\users\staropov\documents\visual studio 2010\Projects\BuildingAPackage\bin\Debug\BuildingAPackage.exe
+c:\users\staropov\documents\visual studio 2010\Projects\BuildingAPackage\bin\Debug\BuildingAPackage.pdb
+c:\users\staropov\documents\visual studio 2010\Projects\BuildingAPackage\obj\x86\Debug\BuildingAPackage.exe
+c:\users\staropov\documents\visual studio 2010\Projects\BuildingAPackage\obj\x86\Debug\BuildingAPackage.pdb

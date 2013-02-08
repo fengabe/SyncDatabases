@@ -1,0 +1,6 @@
+c:\users\staropov\documents\visual studio 2010\Projects\BuildALookupPackage\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\staropov\documents\visual studio 2010\Projects\BuildALookupPackage\bin\Debug\BuildALookupPackage.exe.config
+c:\users\staropov\documents\visual studio 2010\Projects\BuildALookupPackage\bin\Debug\BuildALookupPackage.exe
+c:\users\staropov\documents\visual studio 2010\Projects\BuildALookupPackage\bin\Debug\BuildALookupPackage.pdb
+c:\users\staropov\documents\visual studio 2010\Projects\BuildALookupPackage\obj\x86\Debug\BuildALookupPackage.exe
+c:\users\staropov\documents\visual studio 2010\Projects\BuildALookupPackage\obj\x86\Debug\BuildALookupPackage.pdb
